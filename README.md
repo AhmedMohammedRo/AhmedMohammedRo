@@ -51,5 +51,5 @@ I approach software engineering like mathematics: **structured, logical, and sca
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: (https://www.linkedin.com/in/ahmed7roshdy)
-- Email: (ahmed7roshdy7@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/ahmed7roshdy
+- Email: ahmed7roshdy7@gmail.com
